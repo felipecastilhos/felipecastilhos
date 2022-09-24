@@ -10,7 +10,7 @@
 ```diff
 < Hi, I'm Casti 👽
 
-> i share most code of the things that i study, i holpe it helps you even if its a little bit of code or a concept or even with the hype 
+> i share most code of the things that i study, i hope it helps you even if its a little bit of code or a concept or even with the hype 
 > i just love you computer science 
 > i really into drawing;
 
