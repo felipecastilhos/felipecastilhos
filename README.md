@@ -1,16 +1,27 @@
-### Hi there 👋
+<a href="https://media.giphy.com/media/3o6gDYSYjPs9ysOzu0/giphy.gif" width="100%" height="auto"/></a>
 
-<!--
-**felipecastilhos/felipecastilhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="right">
+  <img src="https://66.media.tumblr.com/tumblr_mcfql2kXpV1rfjowdo1_500.gif" width="15%" height="auto"/>
+</div>
 
-Here are some ideas to get you started:
+```zsh
+> ./im_casti.sh
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
+< Hi, I'm Casti 👽
+
+> i share most code of the things that i study, i holpe it helps you even if its a little bit of code or a concept or even with the hype 
+> i just love you computer science 
+> i really into drawing;
+
+! ‍im android software engineer
+! currently studying about: design systems and android compose
+! i like to experiment digital art with code: done some small game samples and generated art with javascript
+```
+
+```zsh
+> ./my_github_stats.sh
+```
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=felipecastilhos&theme=radical)](https://git.io/streak-stats)
