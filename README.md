@@ -11,14 +11,13 @@
 < Hi, I'm Casti 👽
 
 > i share most code of the things that i study, i hope it helps you even if its a little bit of code or a concept or even with the hype 
-> i just love you computer science 
-> i really into drawing;
+> also like drawing;
 
 ! ‍im android software engineer
-! currently studying about: design systems and android compose
-! i like to experiment digital art with code: done some small game samples and generated art with javascript
+! currently studying about: design systems with android compose and flutter 
+! i like to experiment digital art with code: done some small game samples and generated art
 ```
----
+
 ```zsh
 > ./my_github_stats.sh
 ```
