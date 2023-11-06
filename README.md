@@ -21,5 +21,3 @@
 ```zsh
 > ./my_github_stats.sh
 ```
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=felipecastilhos&theme=radical)](https://git.io/streak-stats)
