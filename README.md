@@ -10,12 +10,15 @@
 ```diff
 < Hi, I'm Casti 👽
 
-> i share most code of the things that i study, i hope it helps you even if its a little bit of code or a concept or even with the hype 
-> also like drawing;
+> I share most code of the things that I study,
+> I hope it helps you even if its a little bit of code or a concept or even with the hype 
+> also I like drawing;
 
 ! ‍im android software engineer
-! currently studying about: design systems with android compose and flutter 
-! i like to experiment digital art with code: done some small game samples and generated art
+! currently studying about:  Design systems and building it's libraries with Jetpack Compose and Flutter 
+! I also like to experiment digital art with code: I done some small game samples and generated art
+
+> please, feel free to reach me out. 
 ```
 
 ```zsh
