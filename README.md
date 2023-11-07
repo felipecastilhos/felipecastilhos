@@ -20,7 +20,3 @@
 
 > please, feel free to reach me out. 
 ```
-
-```zsh
-> ./my_github_stats.sh
-```
