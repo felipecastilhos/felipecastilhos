@@ -16,7 +16,8 @@
 
 ! ‍im android software engineer
 ! Currently studying: Design systems and building their libraries with Jetpack Compose.
-! I also like to experiment digital art with code: I'm working on small game samples on Godot and generated art (algorithmically)
+! I also like to experiment digital art with code:
+! I'm working on small game samples on Godot and generated art (algorithmically)
 
 < let's talk.  
 ```
