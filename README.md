@@ -10,12 +10,12 @@
 ```diff
 < Hi, I'm Casti 👽
 
-> I share most of the code from the things I study,
-> hoping it helps you, whether it's just a little bit of code, a concept, or even just the excitement
-> also, I enjoy drawing;
+> Coding and learning fuel my curiosity, 
+> and I share what I find whether it’s a piece of code, an idea, or just a little enthusiasm.
+> When I’m not at the keyboard, I’m likely drawing, gaming or reading.
 
 ! ‍im android software engineer
-! Currently studying: Design systems and building their libraries with Jetpack Compose.
+! Currently studying: design systems, machine learning and game dev
 ! I also like to experiment digital art with code:
 ! I'm working on small game samples on Godot and generated art (algorithmically)
 
