@@ -15,7 +15,7 @@
 > When I’m not at the keyboard, I’m likely drawing, gaming or reading.
 
 ! I'm Android Software Engineer
-! Currently studying: design systems, machine learning and kotlin stuff
+! Currently studying: design systems, data visualization, machine learning and kotlin stuff
 ! I also like to experiment digital art with code:
 ! I'm working on small game samples on Godot and generated art (algorithmically)
 
