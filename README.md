@@ -14,8 +14,8 @@
 > and I share what I find whether it’s a piece of code, an idea, or just a little enthusiasm.
 > When I’m not at the keyboard, I’m likely drawing, gaming or reading.
 
-! ‍im android software engineer
-! Currently studying: design systems, machine learning and game dev
+!I'm Android Software Engineer
+! Currently studying: design systems, machine learning and kotlin stuff
 ! I also like to experiment digital art with code:
 ! I'm working on small game samples on Godot and generated art (algorithmically)
 
