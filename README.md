@@ -10,12 +10,11 @@
 ```diff
 < Hi, I'm Casti 👽
 
-> Coding and learning fuel my curiosity, 
-> and I share what I find whether it’s a piece of code, an idea, or just a little enthusiasm.
-> When I’m not at the keyboard, I’m likely drawing, gaming or reading.
+> I try to practice coding and learning computer science stuff when I can.
+> and I like to share what I find whether it’s a piece of code or an idea.
 
 ! I'm Android Software Engineer
-! Currently studying: design systems, data visualization, machine learning and kotlin stuff
+! Currently studying: design systems, data visualization, machine learning and kotlin
 ! I also like to experiment digital art with code:
 ! I'm working on small game samples on Godot and generated art (algorithmically)
 
